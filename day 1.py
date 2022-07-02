@@ -1,4 +1,6 @@
-print("hello" + "shrey")
-print("hello" + "ashish")
-print("hello" + "saransh")
-print("hello" + "siddharth")
+print("hello" + " " + input("what is your name ?"))
+print("hello" + " " + input("what is your name ?"))
+print("hello" + " " + input("what is your name ?"))
+print("hello" + " " + input("what is your name ?"))
+print("hello" + " " + input("what is your name ?"))
+
